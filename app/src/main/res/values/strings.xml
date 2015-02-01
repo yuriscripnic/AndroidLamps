@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidLamps</string>
+    <string name="action_settings">Settings</string>
+    <string name="lamp1">Lamp #1</string>
+    <string name="lamp2">Lamp #2</string>
+    <string name="lamp3">Lamp #3</string>
+    <string name="lamp4">Lamp #4</string>
+    <string name="lamp5">Lamp #5</string>
+    <string name="lamp6">Lamp #6</string>
+    <string name="lamp7">Lamp #7</string>
+    <string name="lamp8">Lamp #8</string>
+    <string name="lamp9">Lamp #9</string>
+    <string name="button_send">Send Data</string>
+    <string name="button_read">Read Data</string>
+</resources>
